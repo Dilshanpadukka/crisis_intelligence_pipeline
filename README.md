@@ -25,7 +25,7 @@ The **Crisis Intelligence Pipeline** is a comprehensive AI-powered system design
 ## 📁 Project Structure
 
 ```
-crisis_intelligence_pipeline/
+crisis-intelligence-pipeline/
 ├── data/                           # Input data files
 │   ├── Sample Messages.txt         # 99 crisis messages for classification
 │   ├── News Feed.txt               # 10 news items for extraction
